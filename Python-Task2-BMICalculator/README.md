@@ -6,19 +6,16 @@ It is a desktop-style app made with Python and Tkinter. You enter your name, wei
 
 I built and tested it on my phone using the Pydroid 3 app, because I don't have a laptop right now.
 
-Screenshots
+## Screenshots
 
-Main screen
+### Main screen
+![Main screen](Main.jpg)
 
-"Main screen" (screenshots/main.jpg)
+### BMI progress graph
+![BMI progress graph](graph.jpg)
 
-BMI progress graph
-
-"BMI progress graph" (screenshots/graph.jpg)
-
-Previous records
-
-"Previous records" (screenshots/records.jpg)
+### Previous records
+![Previous records](records.jpg)
 
 What it can do
 
